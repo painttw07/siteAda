@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap');
+
+body {
+  text-align: center;
+ font-family: 'Fira Sans', sans-serif;
+  background-color: #5c35a1;
+  color:white;
+  margin: 0;
+}
+
+h2 {
+  font-size: 50px;
+  color:#92c6e8;
+   font-family: 'Clicker Script', cursive;
+}
+
+.titulo-verde {
+color: #04ff9f;
+font-size: 36px;
+ font-family: 'Clicker Script', cursive;
+}
+
+.titulo-rosa {
+color:#FF9E9E;
+font-size: 36px;
+ font-family: 'Clicker Script', cursive;
+ }
+
+.titulo-amarelo {
+color: #ffe36d;
+font-size: 36px;
+ font-family: 'Clicker Script', cursive;
+}
+
+section {
+  width: 60%;
+  margin: 0% auto;
+}
+
+section section{
+width: 100%;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight:300;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+p {
+  line-height: 1.5;
+ font-size: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #92c6e8;
+  font-weight: 700;
+}
+
+.principal{
+  height: 40px;
+  max-width: 60%;
+  margin: 0% auto;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+.principal a {
+  color: pink;
+  font-size: 14px;
+  font-weight: 700;
+} 
+
+button{
+background: #FF6CB5;
+border: 1px solid ;
+padding: 2px 20px;
+border-radius: 3px;
+}
+
+form{
+  color: pink;
+  margin-bottom: 18px;
+  font-weight: 700;
+}
